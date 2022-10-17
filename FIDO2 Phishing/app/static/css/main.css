@@ -1,0 +1,8 @@
+body  {
+    background-image: url("/static/images/background.jpg");
+    background-size: cover;
+    display: flex;
+    overflow-y: auto;
+    align-items: center;
+    justify-content: center;
+}
